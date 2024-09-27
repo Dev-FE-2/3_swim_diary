@@ -8,8 +8,8 @@
 
 ## 🙌 팀 소개
 | <img width="100px" src="https://avatars.githubusercontent.com/u/56241150?v=4" style="max-width: 100%;"> | <img width="100px" src="https://avatars.githubusercontent.com/u/176368439?v=4" style="max-width: 100%;"> | <img width="100px" src="https://avatars.githubusercontent.com/u/182174995?v=4" style="max-width: 100%;"> | <img width="100px" src="https://avatars.githubusercontent.com/u/127061507?v=4" style="max-width: 100%;"> |
-| --- | --- | --- | --- |
-| <p style="text-align:center;margin:0;font-weight:700;"><a href="https://github.com/KwonSeami">권샘이</a></p> | <p style="text-align:center;margin:0;font-weight:700;"><a href="https://github.com/park-chan-hui">박찬희</a></p> | <p style="text-align:center;margin:0;font-weight:700;"><a href="https://github.com/jurilee0">이주리</a></p> | <p style="text-align:center;margin:0;font-weight:700;"><a href="https://github.com/Chajaesik01">차재식</a></p> |
+| :---: | :---: | :---: | :---: |
+| [권샘이](https://github.com/KwonSeami) | [박찬희](https://github.com/park-chan-hui) | [이주리](https://github.com/jurilee0) | [차재식](https://github.com/Chajaesik01) |
 
 
 ## 📥 설치
