@@ -3,7 +3,7 @@
 
 ## ❗ 프로젝트 정의
 수영일기는 기존의 복잡한 수영장 탐색 과정을 간소화하기 위해 만들어졌습니다.<br>
-**수영장 시스템**은 수영장 등록, 수영장 검색 기능을 제공합니다.
+**수영장 시스템**은 수영장 등록, 수영장 검색 기능을 제공합니다.<br>
 **커뮤니티 시스템**은 게시물로 사용자 간 상호작용을 할 수 있는 시스템을 제공합니다.
 
 ## 🙌 팀 소개
@@ -27,7 +27,7 @@ git clone https://github.com/Dev-FE-2/3_swim_diary.git
 <img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ## 🗃️ 문서
-프로젝트 설계 문서는 design 디렉토리에 마크다운 파일로 기록되어있습니다.
+프로젝트 설계 문서는 design 디렉토리에 마크다운 파일로 기록되어있습니다.<br>
 각각의 설계 문서는 다음과 같습니다.
 
 * 요구사항 정의서 
